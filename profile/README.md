@@ -1,28 +1,4 @@
-<div align="center">
 
-<h1>THOYANI KATI</h1>
-
-<p>
-<b>Software Engineer · Founder · Computer Science</b>
-</p>
-
-<p>
-I design and build software systems, digital products, and practical tools.
-</p>
-
-<p>
-<a href="https://katcode.co.za">KATCODE</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://tovantech.co.za">Tovan Technologies</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thoyani-kati">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Thoyani-Kati">GitHub</a>
-</p>
-
-</div>
-
----
 
 ## About
 
