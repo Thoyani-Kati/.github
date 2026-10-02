@@ -1,7 +1,5 @@
 
 
-## About
-
 I am a Computer Science and Information Technology student and software engineer interested in understanding how software systems work from the ground up.
 
 My work sits primarily around **backend engineering, application architecture, databases, and full-stack web development**.
